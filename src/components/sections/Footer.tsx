@@ -9,8 +9,8 @@ const nav = {
 };
 
 const social = [
-  { name: 'WhatsApp', icon: MessageCircle, href: 'https://wa.me/919876543210' },
-  { name: 'Email', icon: Mail, href: 'mailto:hello@weddingwebstudio.com' },
+  { name: 'WhatsApp', icon: MessageCircle, href: 'https://wa.me/918969457707' },
+  { name: 'Email', icon: Mail, href: 'mailto:deowaretechnology@gmail.com' },
 ];
 
 export function Footer() {
@@ -40,7 +40,10 @@ export function Footer() {
                 </svg>
               </div>
               <div>
-                <p className="font-display text-lg font-semibold text-brown-800">Wedding Web Studio</p>
+                <p className="font-display text-lg font-semibold text-brown-800">
+
+                 Deoware Technology Studio
+                 </p>
                 <p className="text-[10px] tracking-[0.25em] text-gold-500 uppercase font-body">Premium Digital Invitations</p>
               </div>
             </div>
