@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @source "./app/**/*.{js,ts,jsx,tsx,mdx}";
-@source "./src/**/*.{js,ts,jsx,tsx,mdx}";
+@source "../src/**/*.{js,ts,jsx,tsx,mdx}";
 
 /* ─── Custom Theme Tokens (Tailwind v4 syntax) ────────────────────────────── */
 @theme {
